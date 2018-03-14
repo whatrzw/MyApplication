@@ -17,10 +17,5 @@ public class MainActivity extends AppCompatActivity {
         Log.e("aa", "fgkfd");
         Log.e("aa", "fgkfd");
         Log.e("aa", "fgkfd");
-        Log.e("aa", "fgkfd");
-        Log.e("aa", "fgkfd");
-        Log.e("aa", "fgkfd");
-        Log.e("aa", "fgkfd");
-        Log.e("aa", "fgkfd");
     }
 }
