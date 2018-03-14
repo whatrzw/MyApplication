@@ -11,6 +11,5 @@ public class S {
         Log.e("aa", "fgkfd");
         Log.e("aa", "fgkfd");
         Log.e("aa", "fgkfd");
-        Log.e("aa", "fgkfd");
     }
 }
